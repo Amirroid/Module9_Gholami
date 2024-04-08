@@ -1,0 +1,7 @@
+#Mon Apr 08 17:27:35 IRST 2024
+base.0=/Users/amirreza/AndroidStudioProjects/Module9_Gholami/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+base.1=/Users/amirreza/AndroidStudioProjects/Module9_Gholami/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

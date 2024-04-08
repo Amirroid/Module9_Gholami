@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/amirreza/AndroidStudioProjects/Module9_Gholami/app"
+    name=":app"
+    type="APP"
+    maven="Module9_Gholami:app:"
+    agpVersion="8.4.0-alpha03"
+    buildFolder="build"
+    bootClassPath="/Users/amirreza/Library/Android/sdk/platforms/android-34/android.jar:/Users/amirreza/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

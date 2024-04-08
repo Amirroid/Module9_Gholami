@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/drawable_profile.png.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/drawable/profile.png"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/drawable_facebook.png.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/drawable/facebook.png"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/drawable_google.png.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/drawable/google.png"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/drawable_message_box.png.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/drawable/message_box.png"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/drawable_baseline_open_in_full_24.xml.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/drawable/baseline_open_in_full_24.xml"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/xml_backup_rules.xml.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/drawable_splash.png.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/drawable/splash.png"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/drawable_apple.png.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/drawable/apple.png"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/xml_data_extraction_rules.xml.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/drawable_search.png.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/drawable/search.png"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/drawable_baseline_favorite_24.xml.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/drawable/baseline_favorite_24.xml"
+    },
+    {
+        "merged": "ir.amirreza.module9_gholami.app-release-51:/drawable_baseline_close_fullscreen_24.xml.flat",
+        "source": "ir.amirreza.module9_gholami.app-main-52:/drawable/baseline_close_fullscreen_24.xml"
+    }
+]
